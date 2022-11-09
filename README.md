@@ -1,5 +1,6 @@
-# Real World Testing with Cypress - Course App
+# Cypress Demo
 
-This application is for the [Testing your first application course](https://learn.cypress.io/testing-your-first-application) on [learn.cypress.io](https://learn.cypress.io/)
+This repository is a demo of my capabilities on developing automated tests with Cypress.
 
-You can find the instructions for this course [here](https://learn.cypress.io/testing-your-first-application/course-app).
+This is based in the course app available in [Testing your first application course](https://learn.cypress.io/testing-your-first-application) on [learn.cypress.io](https://learn.cypress.io/)
+
